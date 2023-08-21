@@ -1,4 +1,5 @@
 import java.util.*;
+//cette classe est un modéle de données representant les utilisateurs
 public class User {
 //variables
 	private String idUser;
