@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CSVReader {
-	String filePath = "data.csv";
+	String filePath;
     public static List<User> readUsers(String filePath) throws IOException {
         List<User> users = new ArrayList<>();
 
