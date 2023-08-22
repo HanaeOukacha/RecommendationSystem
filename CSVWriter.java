@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CSVWriter {
+//ajouter des données a un fichier csv
     public void writeRecommendationsToCSV(String nomFichier, List<Element> recommendations) {
         try (FileWriter writer = new FileWriter(nomFichier)) {
             // Ecrire l'en tete
