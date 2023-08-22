@@ -1,0 +1,7 @@
+user_id,element_id,note
+user1,element1,4.5
+user1,element2,3.0
+user2,element1,2.0
+user3,element3,5.0
+user2,element3,4.0
+user3,element1,3.5
